@@ -17,8 +17,10 @@
 
 Selector = name of the tag in html when called <br />
 template(Url) = inline HTML / HTML file path <br />
-styles/styleUrls = [inline CSS] / [CSS file path] <br />
+styles/styleUrls = [inline CSS] / [CSS file path] <br /> <br />
 4. 
-```export class ComponentOverviewComponent {
+```
+export class ComponentOverviewComponent {
     // content of the code
-}```
+}
+```
